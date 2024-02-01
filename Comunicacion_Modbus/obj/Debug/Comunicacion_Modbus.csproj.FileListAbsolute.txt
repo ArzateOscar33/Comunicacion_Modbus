@@ -1,0 +1,15 @@
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\Comunicacion_Modbus.exe.config
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\Comunicacion_Modbus.exe
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\Comunicacion_Modbus.pdb
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\EasyModbus.dll
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\NModbus4.dll
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\EasyModbus.xml
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\bin\Debug\NModbus4.xml
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.csproj.AssemblyReference.cache
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.Form1.resources
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.Properties.Resources.resources
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.csproj.GenerateResource.cache
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.csproj.CopyComplete
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.exe
+C:\Users\Arzate\source\repos\Comunicacion_Modbus\Comunicacion_Modbus\obj\Debug\Comunicacion_Modbus.pdb
